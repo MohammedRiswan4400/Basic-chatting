@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079158233773",
+    "project_id": "dogswag-machinetest",
+    "storage_bucket": "dogswag-machinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079158233773:android:6ed8be604d1dc0a9ba4424",
+        "android_client_info": {
+          "package_name": "com.example.dogswag_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnOddL2QIW883wDtKhDNuQIQHgB0TUNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

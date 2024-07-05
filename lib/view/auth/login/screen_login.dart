@@ -66,7 +66,7 @@ class _ScreenLoginState extends State<ScreenLogin> {
                         Tab(
                           child: Center(
                             child: Text(
-                              'User',
+                              'Users',
                               style: TextStyle(
                                   fontSize: 17, fontWeight: FontWeight.bold),
                             ),
